@@ -1,0 +1,28 @@
+body{
+    background-image: url(szorgalmi\ feladat\ képek/background.jpg);
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+    color: white;
+    text-align: center;
+}
+.ie{
+    width: 50px;
+    height: 50px;
+}
+.betu{
+    color: white;
+    text-align: center;
+}
+.ie:hover{
+    background-color: lightblue;
+    width: 50px;
+}
+.betu:hover{
+    background-color: lightblue;
+    width: 50px;
+}
