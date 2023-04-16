@@ -1,4 +1,5 @@
 body{
+    
     background-image: url(szorgalmi\ feladat\ képek/browser.png);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -12,6 +13,18 @@ body{
     color: white;
     text-align: center;
 }
-div{   right: 0px;
+div{
+    position:absolute; 
+    right: 0px;
     top: 0px;
+    width: 150px;
+    height: 
+    50px;
+   
+    
+}
+div:hover{
+    
+    background-color: red;
+    opacity: 40%;
 }

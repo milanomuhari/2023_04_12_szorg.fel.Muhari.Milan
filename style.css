@@ -1,12 +1,14 @@
 body{
     background-image: url(szorgalmi\ feladat\ képek/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .footer{
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    
+    background-size: 100%;
     color: white;
     text-align: center;
 }
@@ -23,5 +25,6 @@ body{
 }
 .ie:hover, .betu:hover{
     background-color: lightblue;
-    width: 50px;
+    opacity: 40%;
+
 }
